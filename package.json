@@ -1,0 +1,25 @@
+{
+  "name": "bower-redactor",
+  "version": "10.2.5",
+  "description": "Redactor WYSIWYG HTML editor",
+  "main": "redactor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmythecoder/bower-redactor.git"
+  },
+  "keywords": [
+    "WYSIWYG",
+    "Redactor",
+    "HTML",
+    "Editor"
+  ],
+  "author": "Jimmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmythecoder/bower-redactor/issues"
+  },
+  "homepage": "https://github.com/jimmythecoder/bower-redactor#readme"
+}
