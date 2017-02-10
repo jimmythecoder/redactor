@@ -1,6 +1,6 @@
 {
   "name": "redactor-wysiwyg",
-  "version": "10.2.5",
+  "version": "10.2.6",
   "description": "Redactor WYSIWYG HTML editor",
   "main": "redactor.js",
   "repository": {
