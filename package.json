@@ -1,5 +1,5 @@
 {
-  "name": "bower-redactor",
+  "name": "redactor-wysiwyg",
   "version": "10.2.5",
   "description": "Redactor WYSIWYG HTML editor",
   "main": "redactor.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimmythecoder/bower-redactor.git"
+    "url": "git+https://github.com/jimmythecoder/redactor.git"
   },
   "keywords": [
     "WYSIWYG",
@@ -16,10 +16,10 @@
     "HTML",
     "Editor"
   ],
-  "author": "Jimmy",
+  "author": "Redactor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jimmythecoder/bower-redactor/issues"
+    "url": "https://github.com/jimmythecoder/redactor/issues"
   },
-  "homepage": "https://github.com/jimmythecoder/bower-redactor#readme"
+  "homepage": "https://github.com/jimmythecoder/redactor#readme"
 }
