@@ -1,2 +1,2 @@
-# bower-redactor
+# redactor
 Redactor WYSIWYG HTML editor
